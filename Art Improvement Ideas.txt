@@ -1,0 +1,5 @@
+1. Old man Character needs his robe to be longer... looks more like a cloak.
+
+2. rework shadow beneath the player model. And rework his outfit and hair to match the games theme more.
+
+3. animate maybe a shine or a fluid animation to the players health display / rework the shading to fit the lower levels of health
