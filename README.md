@@ -17,13 +17,13 @@ This RPG Pixel Game is a labor of love inspired by my lifelong passion for video
 
 ## 🏆 Credits
 
-This project was developed entirely by me, including:
+This project was developed with the help of a youtube tutorial series, it includes:
 
 - **Code**: Written in Java.
 - **Art**: Hand-drawn pixel art for characters, environments, and animations.
 - **Music**: Original soundtrack composed to enhance the game's atmosphere.
 
-Special thanks to RyiSnow on YouTube with his tutorials that supported my journey:
+Special thanks to RyiSnow on YouTube with his tutorials that supported my journey. Please go subscribe and show his hard work love:
 
 - **RyiSnow** [YouTube Channel](https://www.youtube.com/@RyiSnow)
 
